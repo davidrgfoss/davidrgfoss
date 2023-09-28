@@ -14,7 +14,8 @@ Uno de mis proyectos más destacados es mi [sitio web personal](https://www.davi
   - **Bases de Datos:** MariaDB, PostgreSQL, Oracle, MongoDB
   - **Virtualización:** VMware, VirtualBox
 - **Seguridad, Pentesting y Ciberseguridad:** 
-  - Evaluación de vulnerabilidades con Metasploit, técnicas avanzadas de pentesting, prácticas de ciberseguridad, análisis de seguridad en redes WiFi, técnicas de fuerza bruta. Herramientas adicionales: Nmap, Wireshark, Burp Suite, John the Ripper, Hydra, Snort, rkhunter.
+  - Evaluación de vulnerabilidades con Metasploit, técnicas avanzadas de pentesting, prácticas de ciberseguridad, análisis de seguridad en redes WiFi, técnicas de fuerza bruta.
+  - Herramientas adicionales: Nmap, Wireshark, Burp Suite, John the Ripper, Hydra, Snort, rkhunter.
 - **Sistemas Operativos:** Linux (basados en Debian, RedHat, OpenSUSE), Windows (Server y versiones de escritorio)
 - **Redes:** Diseño y optimización de infraestructuras de red, implementación de soluciones VPN, gestión de tráfico y balanceo de carga
 - **Documentación y Presentación:** Docusaurus, TeXLive/LaTeX
