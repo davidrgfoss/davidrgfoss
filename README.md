@@ -27,15 +27,15 @@ Uno de mis proyectos más destacados es mi [sitio web personal](https://www.davi
 - 🌐 Sitio Web: [davidrgfoss.com](https://www.davidrgfoss.com)
 - 📧 Email: [davidrg@davidrgfoss.com](mailto:davidrg@davidrgfoss.com)
 
----
-
-⭐️ De [David](https://github.com/davidrgfoss)
-
-
-# Estadísticas
+## Estadísticas
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=davidrgfoss&locale=es&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrgfoss&locale=es&layout=compact&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davidrgfoss&theme=dracula&mode=weekly&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+---
+
+⭐️ De [David](https://github.com/davidrgfoss)
+
