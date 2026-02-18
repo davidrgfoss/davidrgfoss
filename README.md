@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy David
 
-👨‍💻 Soy un **Programador** y **Administrador de Sistemas en Red** con una profunda experiencia y pasión por el mundo de la informática. Mi trayectoria abarca desde la programación web hasta la gestión avanzada de servidores, virtualización, ciberseguridad y más.
+👨‍💻 Soy un **Programador** y **Administrador de Sistemas en Red** con una profunda experiencia y pasión por el mundo de la informática.
 
 Uno de mis proyectos más destacados es mi [sitio web personal](https://www.davidrgfoss.com), cuyo desarrollo puedes seguir en su [repositorio en GitHub](https://github.com/davidrgfoss/davidrgfoss-web).
 
